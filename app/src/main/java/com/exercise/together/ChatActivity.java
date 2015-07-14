@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ChatActivity extends Activity {
-    //
+    //dd
     private RecyclerView mMessagesView;
     private List<Message> mMessages = new ArrayList<Message>();
     private RecyclerView.Adapter mAdapter;
